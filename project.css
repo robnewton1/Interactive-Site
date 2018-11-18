@@ -1,0 +1,132 @@
+@media all and (min-width: 300px){
+
+
+body {
+	text-align: center;
+	background: #d8ce9c;
+}
+
+table {
+
+
+	height: 300px;
+	width: 600px;
+
+}
+
+td {
+	border: 3px solid black;
+}
+th {
+	background: grey;
+	border: 3px solid black;
+}
+.tr {
+	background: #acafaf;
+}
+.h1 {
+	background: #a2adab;
+	height: 70px;
+}
+h1 {
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	top: 18px;
+}
+h3 {
+	font-size: 24px;
+}
+.names {
+	background: #acafaf;
+}
+.hover:hover {
+	background: #acafaf;
+}
+
+.green-bg {
+	background: green;
+}
+
+.green-bg:hover {
+	background: darkgreen;
+}
+.red-bg {
+	background: red;
+}
+.red-bg:hover {
+	background: darkred;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 725px) {
+body {
+	text-align: center;
+	background: #85c1b6;
+}
+
+
+table {
+
+
+	height: 300px;
+	width: 600px;
+
+}
+
+td {
+	border: 3px solid black;
+}
+th {
+	background: grey;
+	border: 3px solid black;
+}
+.tr {
+	background: #acafaf;
+}
+.h1 {
+	background: #a2adab;
+	height: 70px;
+}
+h1 {
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	top: 18px;
+}
+h3 {
+	font-size: 24px;
+}
+.names {
+	background: #acafaf;
+}
+.hover:hover {
+	background: #acafaf;
+}
+
+.green-bg {
+	background: green;
+}
+
+.green-bg:hover {
+	background: darkgreen;
+}
+.red-bg {
+	background: red;
+}
+.red-bg:hover {
+	background: darkred;
+}
+}
